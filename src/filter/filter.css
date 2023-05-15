@@ -1,0 +1,21 @@
+.toolbar {
+  display: flex;
+  column-gap: 10px;
+}
+.toolbar-item {
+  list-style-type: none;
+  border: 1px solid #555555;
+  padding: 5px 10px;
+  background-color: #fff;
+}
+.toolbar-item:hover {
+  background-color: #ddd;
+  cursor: pointer;
+}
+.toolbar-item-active {
+  background-color: #555555;
+  color: white;
+}
+.list {
+  margin-top: 20px;
+}
