@@ -1,7 +1,7 @@
 import './filter.css';
-import data from './data';
-import Toolbar from './Toolbar';
-import ProjectList from './ProjectList';
+import data from './data.js';
+import Toolbar from './Toolbar.jsx';
+import ProjectList from './ProjectList.jsx';
 import { useState } from 'react';
 
 const Portfolio = () => {

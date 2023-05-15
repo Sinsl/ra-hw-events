@@ -1,5 +1,5 @@
 import './dropdown.css';
-import DropdownList from './DropdownList';
+import DropdownList from './DropdownList.jsx';
 import { useState } from 'react';
 
 const Dropdown = () => {

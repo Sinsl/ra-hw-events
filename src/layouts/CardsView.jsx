@@ -1,4 +1,4 @@
-import ShopCard from "./ShopCard";
+import ShopCard from "./ShopCard.jsx";
 
 const CardsView = ({ cards }) => {
   return (

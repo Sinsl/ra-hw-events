@@ -1,8 +1,8 @@
 import './App.css'
-import Task from './tasks/Task'
-import Portfolio from './filter/Porfolio'
-import Store from './layouts/Store'
-import Dropdown from './dropdown/Dropdown'
+import Task from './tasks/Task.jsx'
+import Portfolio from './filter/Porfolio.jsx'
+import Store from './layouts/Store.jsx'
+import Dropdown from './dropdown/Dropdown.jsx'
 
 function App() {
 

@@ -1,9 +1,9 @@
 import './layouts.css'
 import { useState } from 'react';
-import products from './products';
-import CardsView from './CardsView';
-import ListView from './ListView';
-import IconSwitch from './IconSwitch';
+import products from './products.js';
+import CardsView from './CardsView.jsx';
+import ListView from './ListView.jsx';
+import IconSwitch from './IconSwitch.jsx';
 
 
 const Store = () => {
